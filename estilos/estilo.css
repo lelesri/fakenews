@@ -1,0 +1,15 @@
+h1{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    border: 5px double red;
+    margin: 0px;
+    padding: 0px;
+}
+h2{
+    color:orange;
+}
+
+table, th, td{
+    border: 1px solid orange;
+}
